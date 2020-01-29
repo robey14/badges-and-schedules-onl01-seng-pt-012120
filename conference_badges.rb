@@ -21,4 +21,10 @@ def printer(attendees)
     puts person
   end
   assign_rooms(attendees).map do |person|
-    
+    puts person
+  end
+end
+
+
+
+
