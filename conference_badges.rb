@@ -12,3 +12,4 @@ end
 
 def assign_rooms(speakers)
   speakers.map.with_index do |name,index|
+    
